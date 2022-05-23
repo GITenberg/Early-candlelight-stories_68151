@@ -1,0 +1,32 @@
+_repo: Early-candlelight-stories_68151
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gregory, Dorothy Lake
+    gutenberg_agent_id: '41864'
+    url: http://www.gutenberg.org/2009/agents/41864
+creator:
+  author:
+    agent_name: Shetter, Stella C.
+    gutenberg_agent_id: '54632'
+    url: http://www.gutenberg.org/2009/agents/54632
+description: ''
+gutenberg_issued: '2022-05-22'
+identifiers:
+  gutenberg: '68151'
+language: en
+pgterms:marc904: https://archive.org/details/earlycandelights00shet/page/n5/mode/2up
+pgterms:marc905: 20201220192747shetter
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Rand, McNally & Company,1922,copyright 1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Early candlelight stories
+url: http://www.gutenberg.org/ebooks/68151
