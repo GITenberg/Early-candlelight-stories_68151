@@ -5,12 +5,17 @@ contributor:
     agent_name: Gregory, Dorothy Lake
     gutenberg_agent_id: '41864'
     url: http://www.gutenberg.org/2009/agents/41864
+covers:
+- cover_type: archival
+  image_path: 68151-h/images/cover.jpg
 creator:
   author:
     agent_name: Shetter, Stella C.
     gutenberg_agent_id: '54632'
     url: http://www.gutenberg.org/2009/agents/54632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68151#Early-candlelight-stories
 gutenberg_issued: '2022-05-22'
 identifiers:
   gutenberg: '68151'
